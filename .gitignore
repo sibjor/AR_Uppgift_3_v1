@@ -88,13 +88,11 @@ InitTestScene*.unity*
 # files in platform-specific subfolders, for example:
 # /Assets/AddressableAssetsData/OSX/addressables_content_state.bin
 /[Aa]ssets/AddressableAssetsData/*/*.bin*
-/Assets
-/assets
 
 *.json
 *.meta
 *.csproj
-.*
+.vscode
 /Logs
 
 # Visual Scripting auto-generated files
